@@ -1,3 +1,5 @@
+// O(1) enqueue
+// O(n) dequeue
 #include<bits/stdc++.h>
 using namespace std;
 
